@@ -68,7 +68,7 @@ function setup() {
   // friendly text until user interacts
   userStartAudio();
 }
-
+  
 function draw() {
   background(0, 30);
 
